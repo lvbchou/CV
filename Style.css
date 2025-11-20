@@ -239,8 +239,8 @@ p {
 .about .box .year_company h5 {
     color: #333;
     font-weight: 600;
-    font-size: 1.00em;   /* tăng chữ */
-    font-weight: 600;    /* đậm hơn */
+    font-size: 1.00em;  
+    font-weight: 600;    
 }
 
 .about .box .year_company h5:nth-child(1) {
@@ -251,8 +251,8 @@ p {
     color: #3590d2;
     font-size: 16px;
     margin: 0;
-    line-height: 1.7em;  /* giãn thoáng hơn */
-    margin-bottom: 10px; /* tách các đoạn */
+    line-height: 1.7em;  
+    margin-bottom: 10px; 
 }
 
 /* pro & personal skills */
